@@ -1,6 +1,6 @@
-### Hi there 👋
+### Buenas 👋
 
-# 💫 About Me:
+# 💫 Sobre Mi:
 Hola soy Lucio Fuentes <br><br>Soy desarrollador Full-Stack. Me considero una persona apasionada por el desarrollo de software, con ganas de aprender y con gran capacidad trabajando en equipo. Gracias a esto he aprendido a prestar atención a las necesidades para desarrollar de la manera más eficiente y útil.<br><br>Mi red de contacto es : https://www.linkedin.com/in/lucio-fuentes-54749b24b/<br><br>
 
 
